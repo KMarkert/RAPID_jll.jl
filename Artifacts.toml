@@ -1,0 +1,18 @@
+[[RAPID]]
+arch = "aarch64"
+git-tree-sha1 = "ab8bfe0be8f1cc0d37938ce3a3b201a3a7a45f8e"
+libc = "glibc"
+os = "linux"
+
+    [[RAPID.download]]
+    sha256 = "3090f439bf66a103c8476925f164b982b9961e2d709f953e47e439a1cd454998"
+    url = "https://github.com/KMarkert/RAPID_jll.jl/releases/download/RAPID-v1.8.0+0/RAPID.v1.8.0.aarch64-linux-gnu.tar.gz"
+[[RAPID]]
+arch = "x86_64"
+git-tree-sha1 = "330aa7375e9cbc54f2e7eeb77dc2084292cbc04b"
+libc = "glibc"
+os = "linux"
+
+    [[RAPID.download]]
+    sha256 = "00ec7e801f793ca29179fddfa333b85f9eb968517e08906907e73a3f808ceaa6"
+    url = "https://github.com/KMarkert/RAPID_jll.jl/releases/download/RAPID-v1.8.0+0/RAPID.v1.8.0.x86_64-linux-gnu.tar.gz"
